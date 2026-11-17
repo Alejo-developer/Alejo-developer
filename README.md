@@ -4,7 +4,7 @@
 
 Mi fuerte es el backend con **Java y Spring Boot**. También desarrollo frontend con JavaScript y React, y trabajo con bases de datos relacionales. Junto a un socio fundé **FyA Innovación Tecnológica**, un emprendimiento donde he desarrollado sitios web para clientes reales y un producto SaaS propio.
 
-🎯 **Busco mi práctica profesional** en un equipo de desarrollo.
+🎯 **Busco empleo como desarrollador junior**, con disponibilidad de tiempo completo.
 
 ---
 
