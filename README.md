@@ -6,6 +6,8 @@ Mi fuerte es el backend con **Java y Spring Boot**. También desarrollo frontend
 
 🎯 **Busco empleo como desarrollador junior**, con disponibilidad de tiempo completo.
 
+🌐 **Mi portafolio:** [alejandro-jimenez-portafolio.netlify.app](https://alejandro-jimenez-portafolio.netlify.app/), con mis proyectos y escenas 3D interactivas.
+
 ---
 
 ## 🚀 Proyectos destacados
@@ -15,6 +17,7 @@ Mi fuerte es el backend con **Java y Spring Boot**. También desarrollo frontend
 | [**ESPAM – Estructuras Parra Marroquín S.A.S.**](https://www.espamsas.com/) | Sitio web para un cliente real, con panel administrativo y un módulo de correo bidireccional para que los asesores atiendan a los clientes desde el panel | Java · Spring Boot · Railway |
 | [**FyA MicroApps**](https://fyamicroapps.netlify.app/) | Plataforma web por suscripción para talleres, barberías, estudios de uñas y restaurantes: fichas de clientes, recordatorios por WhatsApp y pagos en línea | JavaScript · Supabase · Mercado Pago · Wompi · Netlify |
 | [**FyA Innovación Tecnológica**](https://www.fyainnovation.com/) | Sitio web de la empresa con escenas 3D | Spring Boot · Thymeleaf · three.js |
+| [**Portafolio personal**](https://alejandro-jimenez-portafolio.netlify.app/) | Mi portafolio con una red de nodos 3D y una galería con las escenas 3D de mis proyectos | React · Vite · three.js · Docker |
 | [**Q-Estaciones de Servicio**](https://github.com/Alejo-developer/QEstacionesDeServicio) | App Android académica con 6 roles para gestionar la distribución de combustible: 2FA por correo, inventario, subsidios, reportes PDF/CSV y mapas | Java · Android · Room · Retrofit |
 
 ---
@@ -57,5 +60,6 @@ Mi fuerte es el backend con **Java y Spring Boot**. También desarrollo frontend
 
 ## 📫 Contacto
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-0B1530?style=for-the-badge&logo=netlify&logoColor=FFB547)](https://alejandro-jimenez-portafolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-jimenez-pinzon/)
 [![Email](https://img.shields.io/badge/alejopinzon2415@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejopinzon2415@gmail.com)
